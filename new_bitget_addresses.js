@@ -21,4 +21,4 @@ function clickButtonMultipleTimes(count, delay) {
 }
 
 // Call the function to click the button 10 times with a 0.2-second delay
-clickButtonMultipleTimes(49, 800);
+clickButtonMultipleTimes(51, 800);
